@@ -1,5 +1,5 @@
 {
-  "name": "karma-html2js-commonjs",
+  "name": "karma-html2commonjs-preprocessor",
   "version": "0.0.1",
   "description": "A Karma plugin. Convert HTML files into CommonJS export files.",
   "main": "lib/index.js",
