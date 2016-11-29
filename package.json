@@ -1,0 +1,18 @@
+{
+  "name": "karma-html2js-commonjs",
+  "version": "0.0.1",
+  "description": "A Karma plugin. Convert HTML files into CommonJS export files.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dmitrypaul/karma-html2commonjs-preprocessor.git"
+  },
+  "keywords": [
+    "karma",
+    "karma-plugin",
+    "karma-preprocessor",
+    "html2js-commonjs"
+  ],
+  "license": "MIT",
+  "author": "Dmytro Paul <pauldeee@gmail.com>"
+}
